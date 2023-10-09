@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3cb835c5500121c4f8040fc82297692d
+guid: 1c0595979789192498bb897317d9bdcd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4640137415192181018
-    second: knight-character-in-pixel-art-style-vector_0
+      213: -1980550617575160370
+    second: MiG-15_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -158,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: knight-character-in-pixel-art-style-vector_0
+      name: MiG-15_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 200
-        height: 200
+        x: 48
+        y: 4
+        width: 280
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1977850564156040800000000000000
-      internalID: 4640137415192181018
+      spriteID: ec580cbe4bba384e0800000000000000
+      internalID: -1980550617575160370
       vertices: []
       indices: 
       edges: []
@@ -188,8 +188,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      knight-character-in-pixel-art-style-vector_0: 4640137415192181018
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
